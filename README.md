@@ -18,7 +18,6 @@ Eğer komşu sayısı 1’den büyük ise en kısa mesafeyi diziden çıkararak 
 Ve en kısa mesafe dizisinden bulunan değerlerden en çok bulunan tespit edilir.
 
 <a target="_blank" href="https://github.com/fikretsefa/knn-without-library/edit/main/diagram.png" >Diagram</a>
-<img src="https://github.com/fikretsefa/knn-without-library/edit/main/diagram.png" width="280" >
 
 **Kaynak**
 <br>
